@@ -32,9 +32,9 @@ class CyberSecurityEnthusiast:
         self.currently_learning = [
             "Red/Blue Teaming",
             "Network Security", 
-            "Python Exploitation",
-            "System Hardening",
-            "Malware Analysis"
+            "Coding Languages",
+            "Computer Systems",
+            "Offensive and Defensive techniques"
         ]
         self.interests = ["CTFs", "Penetration Testing", "Network Defense"]
         self.fun_fact = "Ubuntu was my first computer experience! 🐧"
@@ -261,7 +261,7 @@ graph LR
 
 **🔥 What I've Been Working On:**
 
-- 📦 **Completing Hack The Box machines** - Sharpening my penetration testing skills one box at a time
+- 📦 **Completing Hack The Box machines** - Sharpening my penetration testing skills and completing fun boxes
 - 🖥️ **Securing Proxmox infrastructure** - Hardening virtualization environment and implementing security best practices
 - 🌐 **Network security for game servers** - Configuring firewalls, implementing DDoS protection, and securing hosting infrastructure
 - 🏠 **Home lab expansion** - Building and testing new attack/defense scenarios in a controlled environment
