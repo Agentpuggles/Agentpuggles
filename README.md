@@ -2,7 +2,7 @@
 
 # 🛡️ Flynn | Cybersecurity Enthusiast
 
-### *Ethical Hacker in Training | Red Team Aspirant | Home Lab Warrior*
+### *Ethical Hacker in Training | Blue Team Aspirant | Home Lab Warrior*
 
 <img src="https://komarev.com/ghpvc/?username=agentpuggles&label=Profile%20views&color=00ff00&style=for-the-badge" alt="profile views" />
 
@@ -44,7 +44,7 @@ class CyberSecurityEnthusiast:
         print("Thanks for dropping by! Let's secure the digital world together 🔐")
     
     def current_mission(self):
-        return "Building skills one box at a time 📦"
+        return "Pass applied computing! 📦"
 
 me = CyberSecurityEnthusiast()
 me.say_hi()
@@ -130,7 +130,7 @@ me.say_hi()
 ### 🐧 Operating Systems & Platforms
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Cachy OS](https://img.shields.io/badge/Cachy_OS-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
@@ -140,6 +140,7 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -183,7 +184,13 @@ me.say_hi()
 
 ```mermaid
 graph LR
-    A[🎯 Current Focus] --> B[TryHackMe Rooms]
+    Z[🧠 Foundations: How Computers Work] --> A[🎯 Current Focus]
+    Z --> Z1[Low-Level Languages: C / C++ / ASM]
+    Z --> Z2[Computer Architecture & Hardware]
+    Z --> Z3[OS Internals: Linux, Memory, Processes]
+    Z --> Z4[Networking Fundamentals]
+    Z --> Z5[Binary, Hex, Endianness, CPU Ops]
+    A --> B[TryHackMe Rooms]
     A --> C[Hack The Box Machines]
     A --> D[Home Lab Projects]
     B --> E[HTB CJCA]
@@ -192,7 +199,7 @@ graph LR
     E --> F[CompTIA Security+]
     F --> G[Future: Offensive Certs]
     F --> H[Future: Defensive Certs]
-    G --> I[🚀 Security Architect / Ciso]
+    G --> I[🚀 Security Architect / CISO]
     H --> I
 ```
 
@@ -261,10 +268,11 @@ graph LR
 
 **🔥 What I've Been Working On:**
 
-- 📦 **Completing Hack The Box machines** - Sharpening my penetration testing skills and completing fun boxes
-- 🖥️ **Securing Proxmox infrastructure** - Hardening virtualization environment and implementing security best practices
-- 🌐 **Network security for game servers** - Configuring firewalls, implementing DDoS protection, and securing hosting infrastructure
-- 🏠 **Home lab expansion** - Building and testing new attack/defense scenarios in a controlled environment
+- 🐧 **Messing around with Linux internals** – Exploring kernels, system behavior, low-level tooling, and how things break (and why)
+- 🔍 **Reverse engineering fundamentals** – Analyzing binaries, understanding program flow, and digging into how software really works
+- 💻 **Learning C# for Applied Computing** – Building a solid foundation in C# and understanding how it fits into real-world applications
+- 🚀 **Daily driving Cachy OS** – Running Cachy OS as my main system to deepen Linux proficiency and performance tuning knowledge
+- 🏠 **Home lab expansion** – Building and testing new attack/defense scenarios in a controlled environment
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
