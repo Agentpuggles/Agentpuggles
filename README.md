@@ -184,7 +184,7 @@ me.say_hi()
 
 ```mermaid
 graph LR
-    Z[🧠 Foundations: How Computers Work] --> A[🎯 Current Focus]
+    A[🎯 Current Focus] --> Z[🧠 Foundations: How Computers Work]
     Z --> Z1[Low-Level Languages: C / C++ / ASM]
     Z --> Z2[Computer Architecture & Hardware]
     Z --> Z3[OS Internals: Linux, Memory, Processes]
